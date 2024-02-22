@@ -5,15 +5,19 @@
 Projeto web-site nome/marca Palpitafácil.
 Esse projeto foi desenvolvido utilizando React.js e styled-components.
 
-> Acesse em: [Ecommerce Kumo](https://jhonatan-777.github.io/projeto-kumo/ "Projeto Ecommerce Kumo")
+> Acesse em: [Palpitafácil](https://jhonatan-777.github.io/projeto-kumo/ "Projeto Palpitafácil")
 
-Nele criamos um web-site para anotar apostas e consultar sorteios da lotofácil. O site é composto por uma pagina principal, com informações sobre os últimos 4 sorteios realizados, utilizamos uma api para obter as informações das dezenas sorteadas e com os números verificamos também quais os mais sorteados, o web-site também conta com uma seção para marcação do palpite de aposta:
+Criei um web-site para anotar apostas e consultar sorteios da lotofácil. O site é composto por uma pagina principal, com informações sobre os últimos 4 sorteios realizados, utilizamos uma api para obter as informações das dezenas sorteadas e com os números verificamos também quais os mais sorteados, o web-site também conta com uma seção para marcação do palpite de aposta:
 
 > ### Página Principal (Home):
+
+![Palpitafácil (2) 2](https://github.com/Jhonatan-777/projeto-palpitafacil/assets/155544904/765b74f3-bf80-49d7-8651-8e529b67eb42)
 
 ---
 
 > ### Página responsiva:
+
+![Palpitafácil (1) 2](https://github.com/Jhonatan-777/projeto-palpitafacil/assets/155544904/dbaf2785-6d2a-4eea-8369-02f447ab6c89)
 
 ---
 
