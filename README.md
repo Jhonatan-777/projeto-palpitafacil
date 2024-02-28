@@ -5,7 +5,7 @@
 Projeto web-site nome/marca Palpitafácil.
 Esse projeto foi desenvolvido utilizando React.js e styled-components.
 
-> Acesse em: [Palpitafácil](https://projeto-palpitafacil-8h6i.vercel.app/ "Projeto Palpitafácil")
+> Acesse em: [Palpitafácil](https://projeto-palpitafacil.vercel.app/ "Projeto Palpitafácil")
 
 Criei um web-site para anotar apostas e consultar sorteios da lotofácil. O site é composto por uma pagina principal, com informações sobre os últimos 4 sorteios realizados, utilizamos uma api para obter as informações das dezenas sorteadas e com os números verificamos também quais os mais sorteados, o web-site também conta com uma seção para marcação do palpite de aposta:
 
